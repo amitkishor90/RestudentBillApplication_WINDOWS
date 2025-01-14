@@ -1,0 +1,17 @@
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\bin\Debug\net9.0-windows\RestudentBillApplication.exe
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\bin\Debug\net9.0-windows\RestudentBillApplication.deps.json
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\bin\Debug\net9.0-windows\RestudentBillApplication.runtimeconfig.json
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\bin\Debug\net9.0-windows\RestudentBillApplication.dll
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\bin\Debug\net9.0-windows\RestudentBillApplication.pdb
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.Login.resources
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.csproj.GenerateResource.cache
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.AssemblyInfoInputs.cache
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.AssemblyInfo.cs
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.csproj.CoreCompileInputs.cache
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.sourcelink.json
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.dll
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\refint\RestudentBillApplication.dll
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.pdb
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\RestudentBillApplication.genruntimeconfig.cache
+C:\Users\Amit kishor\source\repos\RestudentBillApplication_WINDOWS\RestudentBillApplication\obj\Debug\net9.0-windows\ref\RestudentBillApplication.dll
